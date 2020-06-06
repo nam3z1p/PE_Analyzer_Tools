@@ -9,7 +9,7 @@ usage: PE_Analyzer_Tools_v0.2.exe -S[-M] filename
 
 optional arguments:
   -S                               File Offset Mode
-  -D                               Memory Image Mode
+  -M                               Memory Image Mode
   
 filename                           Analyzer File Name
 
